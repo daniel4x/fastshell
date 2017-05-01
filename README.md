@@ -1,7 +1,7 @@
 # fastshell
 
 fastshell is an implementation of unix based os shell.</br>
-I made this shell for self studying purpose using [this](https://brennan.io/2015/01/16/write-a-shell-in-c/) excelent tutorial. <br/>
+I made this shell for self studying purpose using [this](https://brennan.io/2015/01/16/write-a-shell-in-c/) excellent tutorial. <br/>
 fastshell is written in c, run and tested on OS X. 
 
 ## Compile and run
