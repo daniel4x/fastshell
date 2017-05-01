@@ -1,0 +1,6 @@
+# ignore c out file
+.out
+.o
+
+# ignore executable 
+fast
